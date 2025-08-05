@@ -102,6 +102,7 @@ body {
     background-color: transparent;
     border: 2px solid #9AABD8;
     color: white;
+    white-space: nowrap;
     width: 100px;
     height: 45;
     top: 271px;
